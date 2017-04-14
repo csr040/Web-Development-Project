@@ -1,0 +1,23 @@
+            <p><style type="text/css">
+table#director img { width: 120px; border-width: 3px; border-style: double; margin: 5px; padding: 5px; background-color: white;}
+.table-people .cell {
+    background-color: #f4F4F4;
+    border: 1px dotted #38AFA9;
+    float: left;
+    margin: 5px;
+    min-height: 12em;
+    padding: 5px;
+    width: 45%;
+}
+.img1 {
+    background-color: white;
+    border: 1px solid grey;
+    float: left;
+    margin: 5px;
+    padding: 3px;
+    height: 110px;
+    max-width: 100px;
+}
+.table-people p { margin: 0; padding: 0}
+div#managers div.cell { width: 30%;     min-height: 12em; }
+div#managers div.cell img {height: 90px; max-width:80px;}	</style></p>
